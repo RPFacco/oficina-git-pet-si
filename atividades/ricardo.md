@@ -1,5 +1,5 @@
 git init
-git commit
+git commit -m "mensagem"
 git add
 git push
 git pull
